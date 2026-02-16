@@ -1,0 +1,113 @@
+✅ Risk decreased to LOW on 5844 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 5854 → Consider reducing exposure
+✅ Risk decreased to LOW on 5859 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 5863 → Consider reducing exposure
+✅ Risk decreased to LOW on 5864 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 5867 → Consider reducing exposure
+✅ Risk decreased to LOW on 5870 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 5871 → Consider reducing exposure
+✅ Risk decreased to LOW on 5873 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 5876 → Consider reducing exposure
+✅ Risk decreased to LOW on 5878 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 5928 → Consider reducing exposure
+✅ Risk decreased to LOW on 5937 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 5955 → Consider reducing exposure
+✅ Risk decreased to LOW on 5962 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 5993 → Consider reducing exposure
+✅ Risk decreased to LOW on 5996 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6047 → Consider reducing exposure
+✅ Risk decreased to LOW on 6052 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6064 → Consider reducing exposure
+✅ Risk decreased to LOW on 6065 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6066 → Consider reducing exposure
+✅ Risk decreased to LOW on 6104 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6105 → Consider reducing exposure
+✅ Risk decreased to LOW on 6106 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6107 → Consider reducing exposure
+✅ Risk decreased to LOW on 6119 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6129 → Consider reducing exposure
+✅ Risk decreased to LOW on 6130 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6131 → Consider reducing exposure
+✅ Risk decreased to LOW on 6144 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6149 → Consider reducing exposure
+✅ Risk decreased to LOW on 6151 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6152 → Consider reducing exposure
+✅ Risk decreased to LOW on 6162 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6165 → Consider reducing exposure
+✅ Risk decreased to LOW on 6176 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6196 → Consider reducing exposure
+✅ Risk decreased to LOW on 6203 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6220 → Consider reducing exposure
+✅ Risk decreased to LOW on 6221 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6232 → Consider reducing exposure
+✅ Risk decreased to LOW on 6245 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6247 → Consider reducing exposure
+✅ Risk decreased to LOW on 6253 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6281 → Consider reducing exposure
+✅ Risk decreased to LOW on 6284 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6285 → Consider reducing exposure
+✅ Risk decreased to LOW on 6287 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6290 → Consider reducing exposure
+✅ Risk decreased to LOW on 6298 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6312 → Consider reducing exposure
+✅ Risk decreased to LOW on 6320 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6322 → Consider reducing exposure
+✅ Risk decreased to LOW on 6323 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6327 → Consider reducing exposure
+✅ Risk decreased to LOW on 6334 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6355 → Consider reducing exposure
+✅ Risk decreased to LOW on 6356 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6372 → Consider reducing exposure
+✅ Risk decreased to LOW on 6379 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6445 → Consider reducing exposure
+✅ Risk decreased to LOW on 6447 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6492 → Consider reducing exposure
+✅ Risk decreased to LOW on 6494 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6495 → Consider reducing exposure
+✅ Risk decreased to LOW on 6506 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6514 → Consider reducing exposure
+✅ Risk decreased to LOW on 6518 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6541 → Consider reducing exposure
+✅ Risk decreased to LOW on 6544 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6559 → Consider reducing exposure
+✅ Risk decreased to LOW on 6574 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6575 → Consider reducing exposure
+✅ Risk decreased to LOW on 6578 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6593 → Consider reducing exposure
+✅ Risk decreased to LOW on 6602 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6603 → Consider reducing exposure
+✅ Risk decreased to LOW on 6605 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6612 → Consider reducing exposure
+✅ Risk decreased to LOW on 6622 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6624 → Consider reducing exposure
+✅ Risk decreased to LOW on 6627 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6630 → Consider reducing exposure
+✅ Risk decreased to LOW on 6632 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6635 → Consider reducing exposure
+✅ Risk decreased to LOW on 6636 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6640 → Consider reducing exposure
+✅ Risk decreased to LOW on 6641 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6642 → Consider reducing exposure
+✅ Risk decreased to LOW on 6644 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6645 → Consider reducing exposure
+✅ Risk decreased to LOW on 6652 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6664 → Consider reducing exposure
+✅ Risk decreased to LOW on 6665 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6666 → Consider reducing exposure
+✅ Risk decreased to LOW on 6668 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6709 → Consider reducing exposure
+✅ Risk decreased to LOW on 6710 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 6831 → Consider reducing exposure
+✅ Risk decreased to LOW on 6834 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 7033 → Consider reducing exposure
+✅ Risk decreased to LOW on 7040 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 7116 → Consider reducing exposure
+✅ Risk decreased to LOW on 7124 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 7132 → Consider reducing exposure
+✅ Risk decreased to LOW on 7134 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 7200 → Consider reducing exposure
+✅ Risk decreased to LOW on 7205 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 7235 → Consider reducing exposure
+✅ Risk decreased to LOW on 7236 → Market stabilizing
+⚠️ Risk increased to MEDIUM on 7238 → Consider reducing exposure
+✅ Risk decreased to LOW on 7239 → Market stabilizing
