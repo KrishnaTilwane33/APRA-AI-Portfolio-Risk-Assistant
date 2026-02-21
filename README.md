@@ -114,7 +114,8 @@ Alerts Panel
 
 ⚡ Quick Start
 1️⃣ Clone Repository
-git clone https://github.com/yourusername/APRA.git
+git clone https://github.com/krishnatilwane33/APRA-AI-Portfolio-Risk-Assistant
+.git
 cd APRA
 
 2️⃣ Create Virtual Environment
