@@ -105,7 +105,12 @@ Drawdown Analysis
 
 Alerts Panel
 
-(Add screenshots here for GitHub appeal)
+#Screenshots
+<img width="1863" height="936" alt="image" src="https://github.com/user-attachments/assets/afe467b3-5037-4787-a0bc-3c466cb74cbc" />
+<img width="1860" height="938" alt="image" src="https://github.com/user-attachments/assets/7e8f1202-820b-41ab-b2a9-b3836520c8f7" />
+<img width="1858" height="939" alt="image" src="https://github.com/user-attachments/assets/e884ad54-0496-4444-91f3-e796e4a4dc12" />
+
+
 
 ⚡ Quick Start
 1️⃣ Clone Repository
