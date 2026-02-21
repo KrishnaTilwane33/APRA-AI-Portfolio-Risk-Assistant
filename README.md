@@ -5,8 +5,7 @@ APRA is a full-stack FinTech analytics platform that monitors financial markets,
 
 🚀 Live Demo
 
-👉 (Add your Streamlit deployment link here)
-Example: https://apra-risk-dashboard.streamlit.app
+👉 https://apra-risk-dashboard.streamlit.app
 
 🎯 Project Objectives
 
